@@ -1,3 +1,4 @@
 # hello-world
-this is my first github repository
+this Is the first github Repository
 first commit
+second commit from master
